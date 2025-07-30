@@ -1,4 +1,4 @@
-# moxa. — Personal Portfolio Landing Page
+# moxa. — Personal Project.
 
 Hey there! 👋 I’m Tayler, a creative designer turned front‑end tinkerer. This is my minimal, playful landing page built with HTML & CSS.
 
